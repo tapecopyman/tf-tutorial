@@ -17,7 +17,8 @@ TensorFlow natively or already have Docker installed, you can try this.
  1. [Install TensorFlow directly on your Ubuntu/Linux
 machine.](install-ubuntu.md)
 
-_Note that TensorFlow is not currently supported natively on Windows._
+ 1. [Install TensorFlow directly on your Windows] https://www.tensorflow.org/install/install_windows
+
 
 If you run into trouble, our full install instrictions are available
 on http://tensorflow.org.
